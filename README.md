@@ -3,7 +3,7 @@ This Node.js script pulls JSON weather report using the OpenWeatherMap API and p
 
 ### Requirements
 ```
-Node.js v12.1
+Node.js v12.16
 axios
 handlebars
 ```
